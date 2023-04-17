@@ -3,7 +3,7 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/drshahizan/drshahizan/master/img/wave.gif" width="30">
 
-I am  __Luqman__, and I am a lecturer at [Universiti Teknologi Malaysia](https://www.utm.my).
+I am  __Luqman__, and I am a student at [Universiti Teknologi Malaysia](https://www.utm.my).
 
 ### 📚 Courses
 - [Special Topic in Data Engineering](https://github.com/drshahizan/special-topic-data-engineering)
