@@ -11,7 +11,7 @@ I am  __Luqman__, and I am a student at [Universiti Teknologi Malaysia](https://
     <a href="https://github.com/luqmanhakim02" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@luqmanhakim02-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/luqman-said/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-luqman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luqman-said/"></a>
     <a href="mailto:lhakim8987@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-lhakim8987@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lhakim8987@gmail.com"></a>
-    <a href="mailto:hakim-02@graduate.utm.my" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-hakim-02-c14439?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hakim-02@graduate.utm.my"></a>
+    <a href="mailto:hakim-02@graduate.utm.my" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-lhakim8987@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lhakim8987@gmail.com"></a>
 </p>
   
 
